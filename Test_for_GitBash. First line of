@@ -2,3 +2,4 @@ This is a test for Git Bash. First line of code.
 This is the second edit on the main branch.
 This is the first line for the test_gitbash branch.
 This is the second line for the test_gitbash branch.
+This is the third line for the test_gitbash branch. However we will try to only stage and commit with no push before the merge.
